@@ -1,0 +1,28 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Menu system","order":13,"path":"folders/Menu system.yy",},
+    {"name":"Object","order":15,"path":"folders/Object.yy",},
+    {"name":"Room","order":14,"path":"folders/Room.yy",},
+    {"name":"Scripts","order":16,"path":"folders/Scripts.yy",},
+    {"name":"Sounds","order":17,"path":"folders/Sounds.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"objMenu","order":3,"path":"objects/objMenu/objMenu.yy",},
+    {"name":"objSound","order":4,"path":"objects/objSound/objSound.yy",},
+    {"name":"objVirtualButtons","order":18,"path":"objects/objVirtualButtons/objVirtualButtons.yy",},
+    {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"oSolid","order":2,"path":"objects/oSolid/oSolid.yy",},
+    {"name":"oSpike","order":3,"path":"objects/oSpike/oSpike.yy",},
+    {"name":"Room1","order":5,"path":"rooms/Room1/Room1.yy",},
+    {"name":"Room3","order":6,"path":"rooms/Room3/Room3.yy",},
+    {"name":"Room4","order":7,"path":"rooms/Room4/Room4.yy",},
+    {"name":"Room5","order":8,"path":"rooms/Room5/Room5.yy",},
+    {"name":"snd_jump","order":1,"path":"sounds/snd_jump/snd_jump.yy",},
+    {"name":"sFlags","order":1,"path":"sprites/sFlags/sFlags.yy",},
+    {"name":"splayer","order":2,"path":"sprites/splayer/splayer.yy",},
+    {"name":"spr_menu","order":2,"path":"sprites/spr_menu/spr_menu.yy",},
+    {"name":"sSolid","order":3,"path":"sprites/sSolid/sSolid.yy",},
+    {"name":"sSpike","order":4,"path":"sprites/sSpike/sSpike.yy",},
+    {"name":"TileSet1","order":19,"path":"tilesets/TileSet1/TileSet1.yy",},
+  ],
+}
